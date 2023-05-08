@@ -1,0 +1,22 @@
+A. komendy wykonywane z pulpitu
+
+1. Stwórz w folderze "Main" folder "Folder3".
+2. W Folderze3 stwórz 3 pliki tekstowe i zapełnij dowolnym tekstem
+3. Skopiuj jeden z powyższych plików tekstowych do folderu "Folder1"
+
+B. komendy wykonywane z folderu "Folder1"
+
+1. zmień nazwę jednemu plikowi z folderu "Folder3"
+2. Spakuj folder "Folder3" do pliku "nowy.zip" z hasłem 1234
+3" Skasuj folder "Folder3"
+
+C. komendy wykonywane z dowolnego miejsca
+1. wyświetl plik "rasy.txt" (cat)
+2. wyświetl piesze 2 lub ostatnie 3 linie (head / tail)
+3. Wyszukaj wszystkie linie ze słowem "York"
+3a) wyświetl tylko NIEpasujące linie
+3b) wyświetl pasujące wyniki z numerami linii
+3c) wyświetl tylko liczbę pasujących bądź niepasujących wyników
+3d) wyświetl pasujące wyniki ignorując wielkość liter
+4. Za pomocą VIM (uzywając jednej komendy) zamień wszystkie słowa "York" na "Nowy York"
+
