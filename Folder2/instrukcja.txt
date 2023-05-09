@@ -12,7 +12,7 @@ B. komendy wykonywane z folderu "Folder1"
 
 C. komendy wykonywane z dowolnego miejsca
 1. wyświetl plik "rasy.txt" (cat)
-2. wyświetl piesze 2 lub ostatnie 3 linie (head / tail)
+2. wyświetl pierwsze 2 lub ostatnie 3 linie (head / tail)
 3. Wyszukaj wszystkie linie ze słowem "York"
 3a) wyświetl tylko NIEpasujące linie
 3b) wyświetl pasujące wyniki z numerami linii
