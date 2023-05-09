@@ -1,6 +1,6 @@
 A. komendy wykonywane z pulpitu
 
-1. Stwórz w folderze "Main" folder "Folder3".
+1. Stwórz w folderze "Lin" folder "Folder3".
 2. W Folderze3 stwórz 3 pliki tekstowe i zapełnij dowolnym tekstem
 3. Skopiuj jeden z powyższych plików tekstowych do folderu "Folder1"
 
